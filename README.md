@@ -1,6 +1,6 @@
 
 
-## Hello , I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
+## Hello , I'm <a href="https://aakarsh.me" target="_blank">Avishkar</a>!
 (If you are not using dark theme , I'm afraid you have lost something ;)
 
 <a href="https://ciphercrypt.github.io/portfolio/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://ciphercrypt.github.io/portfolio/sources/my_img.jpeg" /></a>
