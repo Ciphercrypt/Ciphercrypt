@@ -1,9 +1,9 @@
 ![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 
-## Hello , I'm <a href="https://aakarsh.me" target="_blank">Avishkar</a>!
+## Hello , I'm <a href="https://ciphercrypt.github.io/portfolio/" target="_blank">Avishkar</a>!
 (If you are not using dark theme , I'm afraid you have lost something ;)
 
-<a href="https://ciphercrypt.github.io/portfolio/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://ciphercrypt.github.io/portfolio/sources/my_img.jpeg" /></a>
+<a href="https://ciphercrypt.github.io/portfolio/" target="_blank"><img align="left" alt="https://ciphercrypt.github.io/portfolio/" width="22px" src="https://ciphercrypt.github.io/portfolio/sources/my_img.jpeg" /></a>
 <a href="https://www.linkedin.com/in/avishkar-mohite-3672131b6/" target="_blank"><img align="left" alt="Avishkar| LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/its_ciphertext_/" target="_blank"><img align="left" alt="Avishkar | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
