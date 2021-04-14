@@ -7,17 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ciphercrypt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ciphercrypt" height="30" width="40" /></a>
-  <br>
-<a href="https://linkedin.com/in/avishkar-mohite-3672131b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avishkar-mohite-3672131b6" height="30" width="40" /></a>
-    <br>
-
-<a href="https://instagram.com/its_ciphertext_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_ciphertext_" height="30" width="40" /></a>
-  <br>
-
-<a href="https://www.hackerearth.com/@avimohite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@avimohite" height="30" width="40" /></a>
-  <br>
-
+## 📞 Contact Me
+* Email Id: avimohitr2019@gmail.com
+* LinkedIn : [Avishkar Mohite ](https://www.linkedin.com/in/avishkar-mohite-3672131b6/)
+* Instagram : [@its_ciphertext_](https://www.instagram.com/its_ciphertext_/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
