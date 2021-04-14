@@ -5,12 +5,17 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 ## 📞 Contact Me
 * Email Id: avimohitr2019@gmail.com
-* LinkedIn : [Avishkar Mohite ](https://www.linkedin.com/in/avishkar-mohite-3672131b6/)
-* Instagram : [@its_ciphertext_](https://www.instagram.com/its_ciphertext_/)
+<br><br>
+
+* LinkedIn : [Avishkar Mohite ](https://www.linkedin.com/in/avishkar-mohite-3672131b6/)<br>
+<br>
+
+* Instagram : [@its_ciphertext_](https://www.instagram.com/its_ciphertext_/)<br>
+<br>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
