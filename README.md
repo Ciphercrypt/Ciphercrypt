@@ -1,8 +1,9 @@
+ _┌─[root@parrot]─[~]_<br>
+  └──╼ $ *chomd+x welcome.sh && ./welcome.sh*
 <h1 align="center">Hi 👋, I'm Avishkar Mohite</h1>
 <h3 align="center">You can Meet all my favourite monsters Here!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
-
 
 
 
@@ -31,10 +32,10 @@
  <br>
  
 
-######  _┌─[root@parrot]─[~]_
-###### └──╼ $ *_whoami_*
+ _┌─[root@parrot]─[~]_<br>
+ └──╼ $ *_whoami_*
 
-<
+
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciphercrypt&show_icons=true&locale=en&layout=compact" alt="ciphercrypt" /></p>
