@@ -1,4 +1,4 @@
- _┌─[root@parrot]─[~]_<br>
+  ┌─[root@parrot]─[~]_<br>
   └──╼ $ *chomd+x welcome.sh && ./welcome.sh*
 <h1 align="center">Hi 👋, I'm Avishkar Mohite</h1>
 <h3 align="center">You can Meet all my favourite monsters Here!!</h3>
