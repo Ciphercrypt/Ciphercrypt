@@ -4,7 +4,7 @@
   └──╼ $ *chomd+x welcome.sh && ./welcome.sh*
   <hr>
 <h1 align="center">Hi 👋, I'm Avishkar Mohite</h1>
-<h3 align="center">You can Meet all my favourite monsters Here!!</h3>
+<h3 align="center">You can Meet all my favourite monsters right Here!!</h3>
 
 
 
@@ -54,7 +54,7 @@
  _┌─[root@parrot]─[~]_<br>
  └──╼ $ *_whoami_*
 <hr>
-  <p align="center">I am random freak from PUNE,India(city of oversmart people ,huh?) persuing bachelors in computer science in VJTI,Mumbai .I love programming,reading ,movies and music. follow me on my instagram ,connect with me on linked in and   &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp_<br> <b><i>WELCOME TO MY FREAK SHOW</i></b>!!</p>
+  <p align="center">I am a random freak from PUNE,India(city of oversmart people ,huh?) persuing bachelors in computer science in VJTI,Mumbai .I love programming,reading ,movies and music. follow me on my Instagram ,connect with me on Linked in and   &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp_<br> <b><i>WELCOME TO MY FREAK SHOW</i></b>!!</p>
 
 
 <br>
