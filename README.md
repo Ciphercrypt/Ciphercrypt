@@ -76,7 +76,20 @@
   
  
 
+<br>
+<br>
+
+ _┌─[root@parrot]─[~]_<br>
+ └──╼ $ _chomd+x trophies.sh && ./trophies.sh_
+
+ 
+ <hr>
+ 
+  ![GitHub Trophy graph](https://github-profile-trophy.vercel.app/?username=ciphercrypt&no-frame=true)  
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ciphercrypt&" alt="ciphercrypt" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ciphercrypt&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+
