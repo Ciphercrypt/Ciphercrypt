@@ -85,8 +85,7 @@
  
  <hr>
  
-  ![GitHub Trophy graph](https://github-profile-trophy.vercel.app/?username=ciphercrypt&no-frame=true)  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ciphercrypt)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ciphercrypt&" alt="ciphercrypt" /></p>
 
