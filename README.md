@@ -1,7 +1,7 @@
 
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<h2 >Hi 👋, I'm Avishkar Mohite</h2>
+<h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avishkar Mohite</h2>
 <h3 >You can Meet all my favourite monsters right Here!!</h3>
 <hr/>
 
@@ -85,8 +85,12 @@ I am programming freak from Pune who makes computers and people go crazy .I work
 <p align="center">
 <a href="https://github.com/Ciphercrypt/Ciphercrypt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciphercrypt&hide=css,tex&title_color=FF5733&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+ 
 </a>
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ciphercrypt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Avishkar's GitHub Stats" />
+ </p>
 
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Ciphercrypt&currStreakNum=0066ff&fire=yellow&sideNums=0066ff&sideLabels=ffff00&currStreakLabel=ffff00&theme=radical&date_format=M%20j%5B%2C%20Y%5D&stroke=ffff00&dates=pink&style=centerme" /></div>
 <br/>
