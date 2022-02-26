@@ -101,7 +101,7 @@ I am programming freak from Pune who makes computers and people go crazy .I work
    &nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Ciphercrypt&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ciphercrypt&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=dracula" />
   
 
 
