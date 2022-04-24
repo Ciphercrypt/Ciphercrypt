@@ -6,11 +6,12 @@
 <hr/>
 
 
-I am programming freak from Pune who makes computers and people go crazy .I work on  **💻⎈🐳 Full stack dev,  📱 Android  🌐 CP**  and .    
+I am programming freak from Pune who makes computers and people go crazy .I work on  💻Full stack dev,📱 Android , machine learning
+and ..
 
-* 🧐   Interested in full stack. Recent focus on Android .
 * 🎓   Studying in penultimate year of bachelors of computer engineering at VJTI,Mumbai.
-* 🌱   Currently learning Flutter, Kotlin, advanced DBMS & Philosophy.
+* 🌱   Currently learning Flutter,ML,advanced DBMS & Philosophy.
+* 🧐   Competitive Programming,sometimes...😒 
 * 📈   Fond of finances and equity market  .
 * 💻   Programming and Reddit,all day , every day.
 
@@ -112,8 +113,8 @@ I am programming freak from Pune who makes computers and people go crazy .I work
 <br>
 
 
-
+<!-- 
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Ciphercrypt&theme=rogue)](https://github.com/Ciphercrypt/)
-
+ -->
 
