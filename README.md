@@ -10,7 +10,7 @@ I am programming freak from Pune who makes computers and people go crazy .I work
 and ..
 
 * 🎓   Studying in penultimate year of bachelors of computer engineering at VJTI,Mumbai.
-* 🌱   Currently learning Flutter,ML,advanced DBMS & Philosophy.
+* 🌱   Currently learning React Native,ML,advanced DBMS & Philosophy.
 * 🧐   Competitive Programming,sometimes...😒 
 * 📈   Fond of finances and equity market  .
 * 💻   Programming and Reddit,all day , every day.
