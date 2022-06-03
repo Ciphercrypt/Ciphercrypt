@@ -1,7 +1,7 @@
 
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Avishkar Mohite</h2>
+<h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Avishkar Mohite</h2>
 <h3 >You can Meet all my favourite monsters right Here!!</h3>
 <hr/>
 
