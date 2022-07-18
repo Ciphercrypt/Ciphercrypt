@@ -70,7 +70,7 @@ and ..
   <p align="center">
   <a href=""><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href=""><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
