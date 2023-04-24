@@ -3,29 +3,36 @@
 
 <h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Avishkar Mohite</h2>
 <h3 >You can Meet all my favourite monsters right Here!!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
+
 <hr/>
 
 
 I am programming freak from Pune who makes computers and people go crazy .I work on  💻Full stack dev,📱 Android , machine learning
 and ..
 
-* 🎓   Studying in penultimate year of bachelors of computer engineering at VJTI,Mumbai.
-* 🌱   Currently learning React Native,ML,advanced DBMS & Philosophy.
+* 🎓   Studying in final year of bachelor of computer engineering at VJTI,Mumbai.
+* 🌱   Currently learning Blockchain,React Native and philosophy.
 * 🧐   Competitive Programming,sometimes...😒 
-* 📈   Fond of finances and equity market  .
-* 💻   Programming and Reddit,all day , every day.
+* 📈   Fond of Finance and Economics
+* 💻   Programming,Reddit and Spotify , all day , every day.
 
 
 
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
+![Spotify recently played song](https://spotify-recently-played-readme.vercel.app/api?user=31vdmehjk77djeq3wgig2rozd2iu&width=600&count=1)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ciphercrypt?theme=wtf&font=Encode%20Sans%20Expanded&ext=heatmap)
 <hr/>
+
+
 <p align="center">
 <h3 align="center">📞 Contact Me</h3>
 
 </p>
+
+
 
 <p align="center">
   <a href="mailto:avimohite2019@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
