@@ -1,0 +1,30 @@
+name: Update README Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README timestamp badge
+        run: |
+          DATE=$(date -u +"%Y-%m-%d")
+          sed -i "s/Last%20Updated-[0-9-]*/Last%20Updated-${DATE}/" README.md || true
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet && git diff --staged --quiet || (git add README.md && git commit -m "chore: auto-update README metrics [skip ci]")
+          git push || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
