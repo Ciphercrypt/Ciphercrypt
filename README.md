@@ -1,158 +1,207 @@
+<!-- header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&text=hey%2C%20I'm%20Avishkar%20%F0%9F%91%8B&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0010,30:1A0030,70:0D001A,100:0A0010&height=200&text=Avishkar+Mohite&fontSize=50&fontColor=00F5FF&animation=twinkling&fontAlignY=45&desc=writes+backend+code.+it+mostly+works.&descSize=15&descAlignY=70&descColor=FF0080" width="100%"/>
+</p>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- animated tech icons row -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16ad4a76-1ad3-4ab1-978f-a1816d5fb1dc.gif" width="80" alt="js" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="python" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="java" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="ts" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="tech" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-9e7d6eab-2a91-4c72-a1dc-00cd3c06c1c9.gif" width="80" alt="tech" />
+</p>
+
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="https://git.io/typing-svg">)
+
+[//]: # (    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=760&lines=merged+to+main.+what%27s+the+worst+that+could+happen.+&#40;it+happened.&#41;;building+distributed+systems+that+distribute+blame+evenly;refactored+it.+now+it%27s+cleaner+and+broken.;1200%2B+problems.+still+googles+syntax.;optimized+2800ms.+saved+%240.+no+regrets.;CodeChef+2003.+still+not+satisfied.;it+works+on+my+machine+—+shipping+my+machine." alt="Typing SVG" />)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=profile+views&color=FF0080&style=flat-square&labelColor=0A0010" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/based%20in-Pune%2C%20India-00F5FF?style=flat-square&labelColor=0A0010" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/shipping-soon%E2%84%A2-BD00FF?style=flat-square&labelColor=0A0010" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PRs-in%20draft%20since%202023-FF0080?style=flat-square&labelColor=0A0010" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/good%20enough-not%20a%20valid%20input-00FF41?style=flat-square&labelColor=0A0010" />
+</p>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
+</p>
+
+<!-- about -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20about%20%20-00F5FF?style=flat-square&labelColor=0A0010"/></p>
+
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+I write backend code for a living.
+
+When it breaks, I add more logs.
+When there are too many logs, I add Elasticsearch.
+Now I maintain Elasticsearch.
+
+- Read framework source code for fun. Found 3 bugs. Filed 0 issues. Fixed 1. Moved on.
+- Solved 1200+ LeetCode problems. Still googles "java list to array".
+- Optimized a query from 3s → 200ms. Took 8 hours. Saved approximately $0.
+- Named a Redis library after a lettuce variety. Naming things is hard.
+- Reads research papers recreationally. Yes, this person exists.
+- Stoic philosophy at 2am. Kafka existential crisis at 3am.
+
+<br clear="right"/>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- commit log -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20recent%20activity%20%20-FF0080?style=flat-square&labelColor=0A0010"/></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="coding" />
+</p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
+</p>
+
+[//]: # ()
+[//]: # (<!-- translation -->)
+
+[//]: # (<p align="center"><img src="https://img.shields.io/badge/%20%20what%20i%20say%20vs%20what%20i%20mean%20%20-BD00FF?style=flat-square&labelColor=0A0010"/></p>)
+
+[//]: # (| 🗣️ what i say | 💀 what i actually mean |)
+
+[//]: # (|:---|:---|)
+
+[//]: # (| "quick fix, 5 minutes" | see you in 3 hours |)
+
+[//]: # (| "clean code" | nobody else can read this |)
+
+[//]: # (| "almost done" | i just started |)
+
+[//]: # (| "no breaking changes" | some breaking changes |)
+
+[//]: # (| "minor refactor" | rewrote everything, good luck |)
+
+[//]: # (| "self-documenting code" | no documentation |)
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- skills -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20skills%20%20-00F5FF?style=flat-square&labelColor=0A0010"/></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="coding" />
+</p>
+
+<p align="center"><sub>languages</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,go&theme=dark&perline=6" />
+</p>
+
+<p align="center"><sub>backend — the interesting part</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,kafka,redis,postgres,mongodb,elasticsearch&theme=dark&perline=6" />
+</p>
+
+<p align="center"><sub>infra</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,grafana&theme=dark&perline=6" />
+</p>
+
+<p align="center"><sub>frontend — handle with care. do not mention at 9am.</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,vite&theme=dark&perline=5" />
+</p>
+
+<p align="center"><sub>tools</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark&perline=5" />
+</p>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF6E96&center=true&vCenter=true&width=680&lines=makes+computers+go+brrr+%F0%9F%9A%80;YouTube+Music+%2B+Reddit+%2B+Code+%3D+life;will+solve+leetcode+for+fun+(don't+judge+me);philosophy+enjoyer+by+night+%F0%9F%8C%99;Top+10%25+CodeChef+%C2%B7+1200%2B+problems+deep;Pune+local+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+internet+citizen+always;bugs+are+just+features+in+disguise+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="animation" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="animation" />
+</p>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- grind -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20the%20grind%20%20-BD00FF?style=flat-square&labelColor=0A0010"/></p>
+
+<p align="center">
+  <a href="https://leetcode.com/ciphercrypt">
+    <img src="https://leetcard.jacoblin.cool/ciphercrypt?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap&border=0&radius=20" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=visitors&color=FF6E96&style=flat-square" />
+  <img src="https://img.shields.io/badge/LeetCode-1200%2B%20problems-00F5FF?style=for-the-badge&logo=leetcode&logoColor=0A0010" />
   &nbsp;
-  <img src="https://img.shields.io/badge/based%20in-Pune%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/CodeChef-rating%202003-FF0080?style=for-the-badge&logo=codechef&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/mood-chaotic%20good-blueviolet?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/open%20to-interesting%20convos-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/satisfaction-never-BD00FF?style=for-the-badge" />
 </p>
 
----
+<p align="center"><i>"1200 problems in. still not impressed with myself. still going."</i></p>
 
-<img align="right" alt="vibing" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### `$ cat about_me.txt`
-
-- 🧠 &nbsp; I make computers do things — sometimes useful, sometimes just cool
-- 🎵 &nbsp; YouTube Music is life support at this point
-- 🕳️ &nbsp; Deep in Reddit rabbit holes more often than I should be
-- 📈 &nbsp; Weirdly obsessed with Finance & Economics (yes, for fun)
-- 🧩 &nbsp; Competitive programming is my meditation — 1200+ problems in
-- ☕ &nbsp; Code quality is directly proportional to coffee consumed
-- 🌱 &nbsp; Currently reading into philosophy — Stoics got something
-- 💀 &nbsp; I write code by day and question the universe by night
-- 🎯 &nbsp; CodeChef 2003 (Top 10%) — still not satisfied
-
-<br/>
-
-```
- energy today:  [████████░░]  still needs coffee
- reddit tab:    [██████████]  always open
- bugs fixed:    [███░░░░░░░]  more created than fixed, ngl
-```
-
-<br clear="right"/>
-
----
-
-### `$ cat personality.json`
-
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-
-```json
-{
-  "currently_into": [
-    "stoic philosophy",
-    "youtube music deep dives",
-    "making things faster for no reason"
-  ],
-  "hot_takes": [
-    "tabs > spaces (i will die on this hill)",
-    "dark mode is a personality trait",
-    "README files are self-expression"
-  ],
-  "daily_loop": [
-    "wake up",
-    "open 47 browser tabs",
-    "close 2",
-    "question everything",
-    "repeat"
-  ],
-  "guilty_pleasure": "solving problems nobody asked me to solve",
-  "relationship_status": "committed to my terminal 💻",
-  "fun_fact": "named a Redis lib after a lettuce variety 🥬"
-}
-```
-
-<br clear="right"/>
-
----
-
+<!-- neon bar -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
 </p>
 
-### 🎵 currently in my ears
+<!-- stats -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20stats%20%20-00F5FF?style=flat-square&labelColor=0A0010"/></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/genre%20rn-lo--fi%20%2F%20hip--hop%20%2F%20whatever%202am%20algo%20serves-informational?style=for-the-badge&logo=headphones&logoColor=white" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad39-0dab-4c93-8ca8-2b5c8b4b3e63.gif" width="380" alt="stats" />
 </p>
 
 <p align="center">
-
-| mood | genre | why |
-|------|-------|-----|
-| coding flow | lo-fi hip hop | silence is a myth |
-| debugging rage | heavy metal | self explanatory |
-| late night | ambient / indie | galaxy brain hours |
-| CP grind | phonk | purely unhinged |
-| reading | jazz | feels smart |
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-</p>
-
-### 🛠️ things i know (and some i pretend to)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp&theme=dark&perline=5" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,redis,docker,kubernetes&theme=dark&perline=5" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,postgres,mongodb&theme=dark&perline=5" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,linux,vscode,idea&theme=dark&perline=5" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-</p>
-
-### 🧩 the grind
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ciphercrypt?theme=dark&font=Encode%20Sans%20Expanded&ext=heatmap&border=0&radius=20" />
-</p>
-
-<p align="center"><i>"doing LeetCode at 1am is a personality trait at this point"</i></p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-</p>
-
-### ⚡ github wrapped
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ciphercrypt&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=00D9FF&text_color=c9cacc" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciphercrypt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=c9cacc&hide=css,tex&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ciphercrypt&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&icon_color=FF0080&text_color=C0C0FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciphercrypt&layout=compact&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&text_color=C0C0FF&hide=css,tex&langs_count=6" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ciphercrypt&theme=radical&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FF6E96&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6E96&sideLabels=FF6E96&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=Ciphercrypt&theme=radical&hide_border=true&background=0A0010&stroke=00F5FF&ring=FF0080&fire=BD00FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=FF0080&sideLabels=FF0080&dates=666688" />
 </p>
 
 <p align="center">
@@ -166,16 +215,85 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ciphercrypt&bg_color=0D1117&color=00D9FF&line=FF6E96&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ciphercrypt&bg_color=0A0010&color=00F5FF&line=FF0080&point=BD00FF&area=true&hide_border=true" width="95%" />
 </p>
 
----
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- projects -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20projects%20%20-BD00FF?style=flat-square&labelColor=0A0010"/></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294026-75e64b91-87e1-4d4c-b36c-2c4e70deafb8.gif" width="380" alt="projects" />
 </p>
 
-### 🐍 my commits but make it a game
+<p align="center">
+  <a href="https://github.com/Ciphercrypt/LettuceCache">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ciphercrypt&repo=LettuceCache&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&icon_color=FF0080&text_color=C0C0FF" />
+  </a>
+</p>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🥬 LettuceCache**
+LLM kept re-running identical expensive queries like it had no memory. Which it didn't. Fixed it with Redis + semantic search. Redis is now confused but cooperative.
+
+`Redis` · `FAISS` · `Python` · `semantic search`
+
+</td>
+<td width="50%" valign="top">
+
+**🚦 Quasar**
+Taught a camera to detect and judge traffic. 90% accuracy. The 10% it misses? Motorcycles. Every time. Without fail. Motorcycles specifically.
+
+`YOLOv5` · `React` · `Node.js` · `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Stree AI Chatbot**
+Chatbot with actual context retention — a concept most chatbots treat as optional. Solved it. Shipped it. Moved on before I could overengineer it.
+
+`Python` · `NLP` · `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+**😏 Sarcasm Detector**
+Fine-tuned a transformer on Reddit. The model now assumes everything is sarcastic and trusts no one. Accurate. Relatable.
+
+`Transformers` · `HuggingFace` · `Python`
+
+</td>
+</tr>
+</table>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
+</p>
+
+<!-- trophies -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20trophies%20%20-00FF41?style=flat-square&labelColor=0A0010"/></p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ciphercrypt&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- snake -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20contribution%20trail%20%20-FF0080?style=flat-square&labelColor=0A0010"/></p>
 
 <p align="center">
   <picture>
@@ -185,91 +303,58 @@
   </picture>
 </p>
 
----
-
+<!-- neon bar -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
 </p>
 
-### 🛠️ things I've built (for fun, mostly)
+<!-- joke -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20random%20-BD00FF?style=flat-square&labelColor=0A0010"/></p>
 
 <p align="center">
-  <a href="https://github.com/Ciphercrypt/LettuceCache">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ciphercrypt&repo=LettuceCache&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=00D9FF&text_color=c9cacc" />
-  </a>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%2300F5FF&aColor=%23C0C0FF&bgColor=%230A0010&borderColor=%230A0010" alt="dev joke" />
 </p>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-**🥬 LettuceCache**
-LLM calls kept repeating expensive queries — I made Redis remember. Semantically.
-`Redis` `FAISS` `Python` `good vibes`
-
-</td>
-<td width="50%" align="center">
-
-**🚦 Quasar**
-Taught a camera to watch traffic and judge it. 90% accuracy, 100% judgemental.
-`YOLOv5` `React` `Node.js` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**🤖 Stree AI Chatbot**
-Built a chatbot that actually remembers context. Unlike me before coffee.
-`Python` `NLP` `Flask`
-
-</td>
-<td width="50%" align="center">
-
-**😏 Sarcasm Detector**
-Trained a model on Reddit comments. It's very good. *Obviously.*
-`Transformers` `HuggingFace` `Python`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 trophies (dopamine hits)
-
+<!-- neon bar -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ciphercrypt&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
 </p>
 
----
-
-### 📡 find me
+<!-- socials -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20find%20me%20%20-00F5FF?style=flat-square&labelColor=0A0010"/></p>
 
 <p align="center">
   <a href="mailto:avishkar.mohite.eng@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/avimohite___/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://twitter.com/avishkar_mohite">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/ciphercrypt">
-    <img src="https://img.shields.io/badge/codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/ciphercrypt">
-    <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/email-FF0080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/avishkar-mohite/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0A0010" />
+  </a>&nbsp;
+  <a href="https://twitter.com/avishkar_mohite">
+    <img src="https://img.shields.io/badge/twitter%20%2F%20X-0A0010?style=for-the-badge&logo=x&logoColor=00F5FF" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/avimohite___/">
+    <img src="https://img.shields.io/badge/instagram-BD00FF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/ciphercrypt">
+    <img src="https://img.shields.io/badge/codechef-FF0080?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/ciphercrypt">
+    <img src="https://img.shields.io/badge/leetcode-00F5FF?style=for-the-badge&logo=leetcode&logoColor=0A0010" />
   </a>&nbsp;
   <a href="https://ciphercrypt.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-BD00FF?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
+<br/>
+
+<!-- neon bar -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=thanks%20for%20stopping%20by%20%3A)&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
+</p>
+
+<!-- footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0010,30:1A0030,70:0D001A,100:0A0010&height=120&text=congrats.+you+have+too+much+free+time.&fontSize=22&fontColor=FF0080&animation=twinkling&fontAlignY=60" width="100%"/>
 </p>
