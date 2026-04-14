@@ -10,17 +10,37 @@
 
 <!-- animated tech icons row -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16ad4a76-1ad3-4ab1-978f-a1816d5fb1dc.gif" width="80" alt="js" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" alt="Java" title="Java" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python" title="Python" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="java" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="TypeScript" title="TypeScript" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="ts" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript" title="JavaScript" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="tech" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" alt="C++" title="C++" />
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" alt="Docker" title="Docker" />
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-9e7d6eab-2a91-4c72-a1dc-00cd3c06c1c9.gif" width="80" alt="tech" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" alt="Kubernetes" title="Kubernetes" />
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" alt="AWS" title="AWS" />
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" alt="MySQL" title="MySQL" />
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" alt="React" title="React" />
+</p>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" alt="REST API" title="REST API" />
+  &nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" alt="Python AI" title="Python / AI" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" alt="React" title="React" />
 </p>
 
 [//]: # (<p align="center">)
@@ -55,20 +75,46 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I write backend code for a living.
+Backend engineer. Distributed systems enjoyer.
+Professional bug hunter. Occasional bug creator. Relentless bug eliminator.
 
-When it breaks, I add more logs.
-When there are too many logs, I add Elasticsearch.
-Now I maintain Elasticsearch.
+I build systems that move data fast, fail loudly, and recover gracefully.
 
-- Read framework source code for fun. Found 3 bugs. Filed 0 issues. Fixed 1. Moved on.
-- Solved 1200+ LeetCode problems. Still googles "java list to array".
-- Optimized a query from 3s → 200ms. Took 8 hours. Saved approximately $0.
-- Named a Redis library after a lettuce variety. Naming things is hard.
-- Reads research papers recreationally. Yes, this person exists.
-- Stoic philosophy at 2am. Kafka existential crisis at 3am.
+Most days I am:
+- Designing systems that handle load without drama
+- Hunting latency like it owes me money
+- Reading source code when the docs are lying
+
+I like problems that involve scale, performance, reliability, and weird edge cases at 2:17 AM
 
 <br clear="right"/>
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
+</p>
+
+<!-- philosophy -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20engineering%20philosophy%20%20-BD00FF?style=flat-square&labelColor=0A0010"/></p>
+
+- Measure first. Optimize second.
+- Logs are a conversation with your future self.
+- KISS - Keep it simple, stupid. Complexity is the enemy of reliability.
+- If it breaks in production, it was already broken.
+
+<!-- neon bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
+</p>
+
+<!-- current focus -->
+<p align="center"><img src="https://img.shields.io/badge/%20%20current%20focus%20%20-FF0080?style=flat-square&labelColor=0A0010"/></p>
+
+- Distributed systems and consensus protocols
+- High-throughput Java backend services that don't apologize for existing
+- Caching strategies and performance optimization
+- System design at the edge of what's comfortable
+- Building things that survive traffic spikes without a postmortem
 
 <!-- neon bar -->
 <p align="center">
@@ -191,14 +237,19 @@ Now I maintain Elasticsearch.
 <!-- stats -->
 <p align="center"><img src="https://img.shields.io/badge/%20%20stats%20%20-00F5FF?style=flat-square&labelColor=0A0010"/></p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad39-0dab-4c93-8ca8-2b5c8b4b3e63.gif" width="380" alt="stats" />
-</p>
+[//]: # (<p align="center">)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ciphercrypt&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&icon_color=FF0080&text_color=C0C0FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciphercrypt&layout=compact&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&text_color=C0C0FF&hide=css,tex&langs_count=6" height="170" />
-</p>
+[//]: # (  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad39-0dab-4c93-8ca8-2b5c8b4b3e63.gif" width="380" alt="stats" />)
+
+[//]: # (</p>)
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=Ciphercrypt&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&icon_color=FF0080&text_color=C0C0FF" height="170" />)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciphercrypt&layout=compact&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&text_color=C0C0FF&hide=css,tex&langs_count=6" height="170" />)
+
+[//]: # (</p>)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ciphercrypt&theme=radical&hide_border=true&background=0A0010&stroke=00F5FF&ring=FF0080&fire=BD00FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=FF0080&sideLabels=FF0080&dates=666688" />
@@ -226,15 +277,22 @@ Now I maintain Elasticsearch.
 <!-- projects -->
 <p align="center"><img src="https://img.shields.io/badge/%20%20projects%20%20-BD00FF?style=flat-square&labelColor=0A0010"/></p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294026-75e64b91-87e1-4d4c-b36c-2c4e70deafb8.gif" width="380" alt="projects" />
-</p>
+[//]: # (<p align="center">)
 
-<p align="center">
-  <a href="https://github.com/Ciphercrypt/LettuceCache">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ciphercrypt&repo=LettuceCache&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&icon_color=FF0080&text_color=C0C0FF" />
-  </a>
-</p>
+[//]: # (  <img src="https://user-images.githubusercontent.com/74038190/235294026-75e64b91-87e1-4d4c-b36c-2c4e70deafb8.gif" width="380" alt="projects" />)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="https://github.com/Ciphercrypt/LettuceCache">)
+
+[//]: # (    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ciphercrypt&repo=LettuceCache&theme=radical&hide_border=true&bg_color=0A0010&title_color=00F5FF&icon_color=FF0080&text_color=C0C0FF" />)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
 
 <table align="center">
 <tr>
@@ -280,17 +338,26 @@ Fine-tuned a transformer on Reddit. The model now assumes everything is sarcasti
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:BD00FF,100:FF0080&height=3" width="100%"/>
 </p>
 
-<!-- trophies -->
-<p align="center"><img src="https://img.shields.io/badge/%20%20trophies%20%20-00FF41?style=flat-square&labelColor=0A0010"/></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ciphercrypt&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&theme=radical&no-frame=true&margin-w=10" />
-</p>
+[//]: # (<!-- trophies -->)
 
-<!-- neon bar -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>
-</p>
+[//]: # (<p align="center"><img src="https://img.shields.io/badge/%20%20trophies%20%20-00FF41?style=flat-square&labelColor=0A0010"/></p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github-profile-trophy.vercel.app/?username=Ciphercrypt&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&theme=radical&no-frame=true&margin-w=10" />)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<!-- neon bar -->)
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:BD00FF,100:00F5FF&height=3" width="100%"/>)
+
+[//]: # (</p>)
 
 <!-- snake -->
 <p align="center"><img src="https://img.shields.io/badge/%20%20contribution%20trail%20%20-FF0080?style=flat-square&labelColor=0A0010"/></p>
