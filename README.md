@@ -85,7 +85,7 @@ Most days I am:
 - Hunting latency like it owes me money
 - Reading source code when the docs are lying
 
-I like problems that involve scale, performance, reliability, and weird edge cases at 2:17 AM
+I like problems that involve scale, performance, reliability, and weird edge cases.
 
 <br clear="right"/>
 
